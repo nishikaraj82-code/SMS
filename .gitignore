@@ -1,0 +1,26 @@
+# Composer dependencies
+/vendor/
+
+# Composer files
+/composer.lock
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# PHPStorm / JetBrains
+/.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node modules if any
+/node_modules/
+
+# Build output
+/.cache/
